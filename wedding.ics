@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shinal & Sarthak//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shinal & Sarthak Wedding
+BEGIN:VEVENT
+UID:kesariya-20261102@shinal-sarthak
+DTSTAMP:20261011T000000Z
+DTSTART:20261102T063000Z
+DTEND:20261102T090000Z
+SUMMARY:Kesariya Swagat · Welcome Lunch (Shinal & Sarthak)
+DESCRIPTION:12:00 pm to 2:30 pm
+LOCATION:Victoria Town Hall\, Blue World Castles\, Kanpur
+END:VEVENT
+BEGIN:VEVENT
+UID:sangeet-20261102@shinal-sarthak
+DTSTAMP:20261011T000000Z
+DTSTART:20261102T143000Z
+SUMMARY:Sitaron ki Mehfil · Sangeet (Shinal & Sarthak)
+DESCRIPTION:8:00 pm onwards · A Bollywood night under the stars
+LOCATION:Grand Waterfall\, Blue World Castles\, Kanpur
+END:VEVENT
+BEGIN:VEVENT
+UID:haldi-20261103@shinal-sarthak
+DTSTAMP:20261011T000000Z
+DTSTART:20261103T050000Z
+DTEND:20261103T090000Z
+SUMMARY:Poolside Paradise · Haldi Carnival (Shinal & Sarthak)
+DESCRIPTION:10:30 am to 2:30 pm
+LOCATION:Fairy Wave\, Blue World Castles\, Kanpur
+END:VEVENT
+BEGIN:VEVENT
+UID:wedding-20261103@shinal-sarthak
+DTSTAMP:20261011T000000Z
+DTSTART:20261103T140000Z
+SUMMARY:Mangal Utsav · Wedding (Shinal & Sarthak)
+DESCRIPTION:Baraat Welcome 7:30 pm · Varmala 8:00 pm · Phere at midnight
+LOCATION:Palace Garden\, Blue World Castles\, Kanpur
+END:VEVENT
+END:VCALENDAR

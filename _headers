@@ -1,0 +1,9 @@
+/wedding.ics
+  Content-Type: text/calendar; charset=utf-8
+  Content-Disposition: inline; filename="Shinal-Sarthak-Wedding.ics"
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
